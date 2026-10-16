@@ -1,4 +1,6 @@
-# Video Brief: "Could You Survive 1810s Nepal?"
+# Video Brief: "Could You Survive 1814 Nepal?"
+
+> **Note:** `phase-a.md` supersedes the story map in §6. It sets the year to 1814 so the war news fits, and moves the harvest before the salt trek.
 
 Master brief for the `directing-stickman-videos` skill. It contains every setup decision, the frozen character and voice blocks, a clip-by-clip story map and the facts that need checking. The skill turns it into a Phase A director's proposal (full narration and storyboard) and, once that is approved, 18 standalone Gemini Omni Flash prompts.
 
@@ -26,7 +28,7 @@ Master brief for the `directing-stickman-videos` skill. It contains every setup 
 
 > Life in a hill village 200 years ago wasn't "simple and peaceful". It was hard work from before dawn to after dark, with no doctor, no clock and no safety net except other people. They lacked almost everything we have. But they had something many of us have lost.
 
-**Hook (draft):** *"You wake before dawn. No light switch. No clock. The nearest doctor? There isn't one. It's 1810, in the hills of Nepal. Would you last a week?"*
+**Hook (draft):** *"You wake before dawn. No light switch. No clock. The nearest doctor? There isn't one. It's 1814, in the hills of Nepal. Would you last a week?"*
 
 **Closing question (draft):** *"They had no medicine, but they had each other. We have medicine, and we scroll alone. So tell me: what did we lose, and what did we gain?"*
 
@@ -146,7 +148,7 @@ There are no statistics, dates beyond #1, or quotations.
 
 | Clip | Overlay | Placement (16:9) |
 |---|---|---|
-| 1 | "NEPAL, 1810" | lower-left negative space |
+| 1 | "NEPAL, 1814" | lower-left negative space |
 | 11 | "1814: WAR" | upper-right sky |
 | 14 | "WEEKS LATER" | upper-left |
 | 18 | "WHAT DID WE LOSE?" | center-lower, over the night sky |
