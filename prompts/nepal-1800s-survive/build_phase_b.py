@@ -474,3 +474,57 @@ for c in C:
     cm.append("```text\n" + compact[c["n"]] + "\n```")
 open(OUT.replace("phase-b-prompts.md", "phase-b-compact.md"), "w").write("\n\n".join(cm) + "\n")
 print("wrote compact")
+
+# ---------- Gemini master prompt (one paste, Gemini runs the whole production) ----------
+MASTER_HEAD = """You are my video production assistant. We are making ONE finished 3-minute YouTube video, "Could You Survive 1814 Nepal?", made of 18 clips of about 10 seconds each, 16:9 landscape, in a full-color 2D cartoon style, with an off-screen narrator, music and sound effects.
+
+Below you have everything: the rules, the 18 exact clip prompts, the editing plan, and the on-screen text. Your job is to produce every clip with your video generation tool, check each one, and then deliver the final video (or, if you cannot join videos, everything I need to join them in one step).
+
+=== HOW TO WORK ===
+1. Generate the clips IN ORDER, starting with Clip 1. Use your video generation tool (Veo / Omni Flash, whichever you have) with: 16:9, the longest duration available up to 10 seconds, audio ON.
+2. For each clip, send the clip's prompt text EXACTLY as written below. Do not shorten, summarize, translate or "improve" it. The character, narrator and music descriptions must stay word-for-word identical in every clip, which is what keeps the video consistent.
+3. If your tool has a prompt length limit, keep the order and remove only the "Mood:" and "Layout:" sentences, never the farmer, healer, narrator, music, narration or "Avoid" text.
+4. After each clip, check it and report in 3 short lines:
+   - Narration: are the spoken words exactly the quoted VO lines, in order, with nothing added? Does it sound like the same elderly narrator as previous clips?
+   - Character: does the farmer have the same design (white round head, small brown cap, off-white tunic and trousers, rust-red sash, dark stick limbs, two arms and two legs)? Healer only in clips 9, 10 and 16?
+   - Errors: any visible text, letters, numbers, subtitles, speech bubbles, extra people, extra limbs or photoreal look?
+   If any check fails, regenerate THAT clip once with the same prompt and tell me. If it fails again, show me both and let me choose.
+5. Then continue straight to the next clip. If you can only make one video per message, generate one clip, report, and continue as soon as I reply with anything (for example "next"). If you hit a daily limit, tell me exactly which clip we stopped at so we can resume there tomorrow by me saying "resume".
+6. Keep a running progress list: Clip 1 done / Clip 2 done / ... so we never lose our place.
+7. When all 18 clips are done, do the FINAL ASSEMBLY below.
+
+=== FINAL ASSEMBLY ===
+If you are able to combine videos: join the 18 clips in order (Clip 1 to Clip 18) into one 16:9 video, following the cut notes, add the on-screen text overlays at the listed clips, use a short 4–6 frame audio crossfade on the music at each cut (never through the middle of a spoken word), hold the last frame of Clip 18 for 3 extra seconds, and give me the single final video file.
+
+If you cannot join videos yourself, say so plainly in one sentence, and then give me:
+(a) the list of the 18 clip files in order with any trim points you recommend,
+(b) this ready-to-run command for the free tool ffmpeg, adapted to the file names you gave the clips:
+    1. Put all clips in one folder named clip01.mp4 ... clip18.mp4
+    2. Create list.txt containing lines: file 'clip01.mp4' ... file 'clip18.mp4'
+    3. Run: ffmpeg -f concat -safe 0 -i list.txt -c:v libx264 -crf 18 -c:a aac -b:a 192k final_video.mp4
+(c) step-by-step instructions to add the overlays in a free editor like CapCut.
+
+=== CUT NOTES (what connects each clip to the next) ===
+"""
+
+parts = [MASTER_HEAD]
+parts.append("\n".join(f"Clip {a} -> Clip {b}: {t}" for a, b, t in STITCH))
+parts.append("""
+=== ON-SCREEN TEXT (add only in editing, never inside the clip prompts) ===
+Clip 1: "NEPAL, 1814" (lower-left)
+Clip 11: "1814: KINGDOM AT WAR" (upper-right sky)
+Clip 12: "MONTHS LATER" (upper-left)
+Clip 18: "WHAT DID WE LOSE?" (center-lower), then end card "TELL US BELOW"
+
+=== IF THE NARRATOR'S VOICE KEEPS CHANGING BETWEEN CLIPS ===
+Tell me. The fallback is to generate the whole narration as one audio track from the full script below, and lay it over the joined video instead of the per-clip voice.
+Full narration script (about 3 minutes, slow elderly storyteller):
+""")
+parts.append("\n".join(f"{n}. {APPROVED[n]}" for n in sorted(APPROVED)))
+parts.append("\n=== THE 18 CLIP PROMPTS (send each one exactly as written) ===\n")
+for c in C:
+    parts.append(f"----- CLIP {c['n']} of 18 -----\n{compact[c['n']]}\n")
+parts.append("----- END OF CLIP PROMPTS -----\n\nStart now with Clip 1. Before generating, reply with one line confirming: 18 clips, 16:9, prompts used exactly as written. Then generate Clip 1.")
+master = "\n".join(parts)
+open(OUT.replace("phase-b-prompts.md", "GEMINI-MASTER-PROMPT.txt"), "w").write(master)
+print("master prompt chars:", len(master), "words:", len(master.split()))
