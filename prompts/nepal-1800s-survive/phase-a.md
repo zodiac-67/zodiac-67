@@ -11,7 +11,7 @@
 **3. Setup:** `16:9` · `3 min = 18 clips × ~10 s` · **Style 4 — Cozy Storytelling** (full-color 2D cartoon environments, cinematic shot changes, a new setting for each segment)
 
 **4. Narrator: complete voice profile (one voice for the whole video).** An elderly man of about seventy, off-screen, like a grandfather telling a story by the fire. Clear English with a light, gentle Nepali accent. Warm, deep, slightly weathered timbre. Low pitch, rich chest resonance, a soft touch of gravel, no breathiness. Slow, unhurried storytelling delivery with gentle pauses and restrained pitch variation, at a steady pace. Close, dry studio recording with no room echo. The emotion lives in the music and visuals; the voice never changes.
-- **English word count:** 377 words (~21 per clip)
+- **English word count:** 379 words (~21 per clip)
 - **Estimated duration:** ~3:00 at about 2.1 words per second
 - ⚠️ This is slightly brisk for a slow elderly voice. If generated clips sound rushed, I'll trim lines rather than speed up the narrator.
 
@@ -57,7 +57,7 @@ The protagonist's **rust-red sash** is the one recurring signature color in ever
 | 17 | Ultimate Truth | They had almost nothing we have: no phone, no clock, no clinic. But they had something we keep losing. | 19 |
 | 18 | Elevation & Debate | No hospitals, but each other. We have hospitals, and scroll alone. So what did we lose, and what did we gain? | 20 |
 
-**Total: 377 words.** Stage split: Hook 1 clip · Assumptions 3 · Secrets 7 (39%) · Truth 6 (33%) · Elevation 1.
+**Total: 379 words.** Stage split: Hook 1 clip · Assumptions 3 · Secrets 7 (39%) · Truth 6 (33%) · Elevation 1.
 
 ---
 
@@ -339,4 +339,4 @@ The VO makes **no statistics, quotations or exact durations**. "Much of your day
 
 ## Phase A checks
 
-✅ Setup known · ✅ 5-stage arc implemented · ✅ ends on a debate question · ✅ 377 words (target 360–450) · ✅ exactly 18 rows, each with a distinct purpose · ✅ 3 beats and ≥4 visual devices per row · ✅ a change every 2–3 s · ✅ new or approved-return location per clip, with time jumps named · ✅ no color codes · ✅ text only as post-production overlays · ✅ every clip-to-clip connection named · ✅ one voice profile · ✅ no extra people · ✅ facts flagged
+✅ Setup known · ✅ 5-stage arc implemented · ✅ ends on a debate question · ✅ 379 words (target 360–450) · ✅ exactly 18 rows, each with a distinct purpose · ✅ 3 beats and ≥4 visual devices per row · ✅ a change every 2–3 s · ✅ new or approved-return location per clip, with time jumps named · ✅ no color codes · ✅ text only as post-production overlays · ✅ every clip-to-clip connection named · ✅ one voice profile · ✅ no extra people · ✅ facts flagged
