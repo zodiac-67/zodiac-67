@@ -328,7 +328,7 @@ Negative constraints: no photorealism, no 3D humanoid CGI, no realistic eyes, pu
 ```text
 Generate one approximately 10-second video clip: 16:9 landscape, 720p target, 24 FPS, with synchronized audio.
 
-Style 4 Cozy Storytelling: full-color 2D cartoon animation with clear clean contours, soft natural light, gentle atmospheric depth and cinematic framing, set in a hill village of Nepal in the early nineteenth century. Use rapid scene changes, kinetic motion-graphic transformations, and frequent visual events, while preserving an identical stick-figure design, constant line weight, and strict temporal consistency. Vary wide, close and moving shots. Not a hand-drawn sketchbook look, no paper texture, not photorealistic, not 3D. Setting for this clip: The same farmhouse interior where the story began, now at night: low dark wooden beams, packed-earth floor, a steady fire in the earthen hearth at left-center throwing warm leaping shadows on the walls, the woven straw mat beside it, the tiny window showing rainy darkness, and the plain wooden door on the right wall.
+Style 4 Cozy Storytelling: full-color 2D cartoon animation with clear clean contours, soft natural light, gentle atmospheric depth and cinematic framing, set in a hill village of Nepal in the early nineteenth century. Use rapid scene changes, kinetic motion-graphic transformations, and frequent visual events, while preserving an identical stick-figure design, constant line weight, and strict temporal consistency. Vary wide, close and moving shots. Not a hand-drawn sketchbook look, no paper texture, not photorealistic, not 3D. Setting for this clip: The same farmhouse interior where the story began, now at night: low dark wooden beams, a steady fire in the earthen hearth at left-center throwing warm leaping shadows, the straw mat beside it, and the plain wooden door on the right wall.
 
 Cast in this clip: exactly two people, the farmer and the healer. No other people.
 
@@ -338,14 +338,14 @@ The healer: One older male minimalist 2D cartoon village healer, slightly shorte
 
 Palette and mood: Warm firelight amber against deep night shadows. Colors are named in plain words only. The farmer's rust-red sash is his signature color in every shot.
 
-Composition (16:9): stage action across left, center and right thirds with lateral camera movement and deliberate negative space; the overall journey direction moves left to right. The farmer on the mat at left, the fire at left-center, the door and the healer's entrance at right.
+Composition (16:9): stage action across left, center and right thirds with lateral camera movement and deliberate negative space; the overall journey direction moves left to right. The farmer at left, the door and the healer's entrance at right.
 
 Movable props: One round flat two-sided hand drum with a curved wooden stick handle, carried by the healer. One small bundle of green herb leaves, carried by the healer and then laid beside the farmer, where it stays. A small handful of grain in the healer's palm, scattered into the fire.
 
 First frame: Inherited warm light: the farmer lies under a plain brown blanket on the straw mat beside the hearth, eyes half closed; the door on the right is closed.
 
 Timed visual beats:
-- [0–3s] (narration part 1): The door opens on the right and the healer steps in from the rainy night carrying the drum and the herb bundle; firelight catches his feather crown.
+- [0–3s] (narration part 1): The door opens on the right and the healer steps in from the rainy night with the drum and herb bundle; firelight catches his feather crown.
 - [3–7s] (narration part 2): He sits by the fire and beats the drum in a steady rhythm; he scatters a handful of grain into the flames and bright sparks spiral upward; he lays the herb bundle beside the farmer.
 - [7–10s] (narration part 3): He gently holds the farmer's wrist with one hand, the drum resting in his lap; the rising sparks dissolve into soft pale morning light.
 
@@ -608,9 +608,9 @@ The healer: One older male minimalist 2D cartoon village healer, slightly shorte
 
 Palette and mood: Warm firelight amber flames against deep blue dusk. Colors are named in plain words only. The farmer's rust-red sash is his signature color in every shot.
 
-Composition (16:9): stage action across left, center and right thirds with lateral camera movement and deliberate negative space; the overall journey direction moves left to right. The steps run across the lower frame; the healer enters from the left; the terrace edge opens on the right.
+Composition (16:9): stage action across left, center and right thirds with lateral camera movement and deliberate negative space; the overall journey direction moves left to right. The steps run across the lower frame; the healer enters from the left.
 
-Movable props: Many small round clay oil lamps, each holding one small flame; they start mostly unlit and are lit one by one by the farmer with a thin burning stick. One round clay bowl with a woven cover, carried in by the healer, set on the step, then uncovered and shared.
+Movable props: Many small round clay oil lamps, mostly unlit at first, lit one by one by the farmer with a thin burning stick. One round clay bowl with a woven cover, brought by the healer and shared.
 
 First frame: The lamp flame from the previous shot becomes one lit clay lamp on the steps; the farmer kneels beside it holding a thin burning stick.
 

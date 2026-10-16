@@ -1,0 +1,543 @@
+# Compact prompts (≤ 4,000 characters)
+
+Same content as `phase-b-prompts.md`, condensed for tools with a 4,000-character prompt limit, such as the vidIQ Omni Flash tool. The character, voice and music blocks are identical across all 18 prompts.
+
+### Clip 1 · Golden Hook · 3899 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: Interior of a small two-story stone-and-mud hill farmhouse before dawn: low dark wooden ceiling beams, packed-earth floor, an earthen hearth with faintly glowing orange embers at left-center, a woven straw sleeping mat on the floor beside it, a tiny square wooden window in the back wall showing stars above dark mountain silhouettes, and a plain wooden door on the right wall. Mood: Cool dawn blue-gray darkness, warming to firelight amber on the farmer's face as the flame rises; cool blue light at the door. Layout: Hearth and mat at left-center, window at center background, door at right; keep the right third open for the door light.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: A plain brown blanket covering the farmer at the start, left on the mat when he rises. No other movable props in this clip.
+
+Start: The farmer lies on the straw mat beside the hearth under the brown blanket, eyes closed; the embers glow faintly; the wooden door is closed.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "You wake before dawn. No light switch." Extreme close-up of the glowing embers; the camera tilts up as the farmer sits up on the mat and opens his eyes, the blanket sliding into his lap.
+
+[3–7s] VO "No clock. No doctor. Eighteen-fourteen, the hills of Nepal." He reaches his right hand toward the bare wall as if for a light switch; a simple glowing icon-only lightbulb outline flickers beside his hand and fades away. He kneels at the hearth and blows on the embers; a small flame rises and lights his face warm amber.
+
+[7–10s] VO "Would you last a week?" Slow push-in past his shoulder to the tiny window and the starry peaks; he stands, walks right and pulls the wooden door open; cool blue dawn light floods in from the right.
+
+End: The farmer stands in the open doorway at right, silhouetted against blue dawn light, stepping outward to the right; the blanket lies on the mat; a small flame burns in the hearth.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: gentle Nepali folk theme on sarangi with soft bansuri flute and a light madal hand-drum pulse, slow warm tempo. The theme begins very softly. SFX: ember crackle, a soft breath on the coals, a distant rooster, the wooden door creaking open. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. No electric light and no clock anywhere; the lightbulb exists only as a fading icon.
+```
+
+### Clip 2 · Disrupting Assumptions · 3685 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: A stone village spring on a misty hillside at dawn: a moss-edged carved stone spout pouring a steady stream into a small stone basin, a steep stone footpath climbing to the upper right, a pine tree at the left edge of the frame, and soft white mist filling the valley below under a cool blue-gray sky. Mood: Cool dawn blue-gray and soft white mist, with the first pale gold of sunrise on the distant peaks at the end. Layout: The farmer enters at left, the spout at center, the steep path rising toward the upper right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: One round metal water pot with a wide belly and a narrow neck, warm brass in color. It starts empty, held under the farmer's left arm; after filling it is full and carried on his right shoulder.
+
+Start: Inherited from the previous clip: the farmer walks into frame from the left in cool blue dawn light, moving right, holding the empty water pot under his left arm.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "We like to picture old village life" Wide establishing shot: the farmer walks right along the path to the spring; mist drifts across the valley and two small birds cross the sky.
+
+[3–7s] VO "as simple and peaceful. Fresh spring water, clean mountain air," Medium shot: he holds the pot under the spout and water splashes and sparkles; gentle glowing icon-only sun and leaf symbols float softly above the spring like a peaceful daydream.
+
+[7–10s] VO "no stress at all." He heaves the full pot onto his right shoulder with a visible strain, knees bending, and starts climbing the steep stone path to the upper right; the gentle icons dissolve; the first rays of sun touch the distant peaks.
+
+End: The farmer climbs the steep path toward the upper right with the full pot on his right shoulder; sunrise light breaks over the peaks ahead of him.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. Calm and gentle. SFX: trickling and splashing water, birdsong, footsteps on stone. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.
+```
+
+### Clip 3 · Disrupting Assumptions · 3910 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The upper terraced fields of the hill village at sunrise: narrow stepped earthen terraces curving along a steep slope, low dry-stone retaining walls, freshly turned brown soil with green edges, and huge snow-capped Himalayan peaks glowing pink and gold in the background. Mood: Fresh terrace green, rich brown soil and warm sunrise gold against snow-white peaks. Layout: Water pot set down at left; the oxen and plow travel from center toward the right along the terrace edge; peaks fill the background.
+
+Only one person appears, the farmer, plus exactly two oxen. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose. Two identical simple cartoon oxen: warm brown bodies, short curved light horns, dark dot eyes, stick-like legs, yoked by one wooden beam.
+
+Props: The full brass-colored water pot arrives on the farmer's right shoulder and is set down on the low terrace wall at the left, where it stays. One simple wooden plow with a single curved handle, tied by a rope to the oxen's wooden yoke beam.
+
+Start: The farmer arrives from the left with the full water pot on his right shoulder; the two yoked oxen stand waiting on the terrace with the plow behind them.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "But simple never meant easy." A sun flare rises over the ridge; wide shot: the farmer sets the water pot down on the low terrace wall at left and grips the plow handle with both hands behind the oxen.
+
+[3–7s] VO "Before the sun clears the peaks, you are already behind the plow," Lateral tracking shot from left to right: the oxen pull, the plow curls a ribbon of brown soil, and the farmer leans hard into the handle along the narrow terrace edge; small birds flutter up from the furrow.
+
+[7–10s] VO "and every furrow is yours." He pauses and wipes his brow with his forearm; one ox walks forward past the camera lens, its warm brown body filling the frame as a wipe.
+
+End: The warm brown flank of an ox passing close to the lens fills the frame, moving right.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The madal hand-drum pulse becomes slightly more present. SFX: an ox bell, the plow scraping soil, fluttering wings, effortful breathing with no words. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. Exactly two oxen; no other animals except small birds.
+```
+
+### Clip 4 · Disrupting Assumptions · 3684 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The packed-earth front courtyard of a two-story stone-and-mud farmhouse with a thick golden thatched roof, small dark wooden window frames and a low stone step at the door, in soft morning light, with green terraced slopes behind. Mood: Warm morning light, earthy browns and golden thatch, pale flour white. Layout: The mill at center-left with the farmer kneeling behind it; the house fills the right and background.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: One round two-piece stone hand-mill on the ground: a flat lower stone and an upper stone with a center hole and an upright wooden handle near its edge. One small woven tray of grain, held by the farmer at the start and then set down. One wide clay bowl beside the mill that receives the flour.
+
+Start: Revealed as the passing brown wipe clears: the farmer already kneels at the stone hand-mill in the courtyard, holding the tray of grain.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "There is no shop, no sack of flour." As the wipe clears, the farmer pours a stream of grain from the tray into the center hole of the mill and sets the tray down.
+
+[3–7s] VO "Every meal begins with your own two hands," Close-up insert: his right hand turns the wooden handle in steady circles; pale flour spills from the rim of the stones; a simple icon-only shop and sack symbol appears beside the mill and is crossed out with a single stroke.
+
+[7–10s] VO "stone grinding on stone." Pull back to a medium shot: a small pile of flour lies in the clay bowl as he keeps turning; the camera rises upward, following the circular motion, above the roof toward the treetops.
+
+End: The camera has risen above the thatched roof, framing a swaying green tree canopy, continuing the circular motion.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. Steady and gentle. SFX: the low rumbling grind of stone on stone, grain pouring, a chicken clucking softly. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. The water pot and the oxen do not appear in this clip.
+```
+
+### Clip 5 · Unveiling Insider Secrets · 3663 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: A steep pine and rhododendron forest slope above the village: tall straight pines, rhododendron trees with bright red blossoms, dappled sunlight on a carpet of needles, and a narrow trail leading out to the right. Mood: Deep forest green, dappled gold light and bright red blossoms. Layout: Tree trunks frame the left and center; the trail exits on the right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: One curved khukuri knife with a dark wooden handle in a simple dark sheath tucked into the farmer's rust-red sash; drawn to cut, then sheathed again. One tall cone-shaped woven bamboo basket with a flat woven forehead strap; it starts empty on the ground and ends full of leafy fodder and dry sticks, carried on the farmer's back with the strap across his forehead.
+
+Start: A swaying green forest canopy fills the frame, continuing the circular camera motion from the previous shot; the empty basket stands on the ground below.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "Here is what nobody tells you:" The canopy sways; the camera tilts down the tree trunks to the farmer, who draws the khukuri from his sash and cuts a bundle of leafy fodder from a low branch.
+
+[3–7s] VO "much of your day just feeds the fire and the animals." He stacks the fodder and dry sticks into the empty basket, slides the khukuri back into its sheath at his sash, places the forehead strap on his brow and lifts the loaded basket onto his back with a small stagger; red blossoms drift down.
+
+[7–10s] VO "Firewood, fodder, then the climb home." Simple glowing icon-only flame and animal-head symbols pulse beside the basket; he leans forward under the load and walks out of the forest to the right.
+
+End: The farmer exits frame right, bent under the full basket; the khukuri is sheathed at his sash.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. Steady and gentle. SFX: forest birds, a branch being cut, snapping twigs, the basket creaking. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.
+```
+
+### Clip 6 · Unveiling Insider Secrets · 3474 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The upper storeroom under the thatched roof of the farmhouse: a low slanted ceiling of bamboo and thatch, thin beams of light through small gaps, a notched log ladder rising through a square opening in the floor, and three woven grain baskets with lids standing in a row. Mood: Dim warm browns with slanted golden light beams and floating dust. Layout: The ladder opening at left; the three baskets in a row from center to right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: Three identical tall woven grain baskets with round woven lids; from left to right the first is full of golden grain, the second half full, the third almost empty. The khukuri stays sheathed at the farmer's sash. The forest load basket is not in this room.
+
+Start: The farmer's head and shoulders rise through the floor opening as he climbs the notched log ladder, empty-handed.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "Inside, you count the baskets of grain." Low angle: he climbs the last rungs into the storeroom; golden dust motes float in a slanted beam of light.
+
+[3–7s] VO "The harvest is still months away," He lifts the lid of each basket in turn from left to right, full, half, almost empty; he scoops one small handful from the last basket and studies it, eyebrows tilting into a worried expression.
+
+[7–10s] VO "and every handful must last until then." He lets the grain fall back; raindrops start tapping on the thatch above and a few drips sparkle through the light beam; he looks up.
+
+End: The farmer looks up toward the thatch as rain drips through the light beam; the lids are open.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The music softens. SFX: a creaking ladder, woven lids lifting, grain trickling, the first raindrops on thatch. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.
+```
+
+### Clip 7 · Unveiling Insider Secrets · 3446 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The same terraced hillside fields seen earlier in the story, now in a heavy monsoon downpour: a dark slate-gray sky, sheets of slanting rain, swollen mud, water streaming over the terrace edges, and the peaks hidden in cloud. Mood: Heavy slate gray and rain-dark brown, with one white lightning flash at the end. Layout: The farmer runs from left to center; the collapsing wall section is at center-right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: One woven bamboo rain cover shaped like a curved shell, held over the farmer's head and back at first, then dropped on the terrace where it stays. Several rounded gray stones from the collapsed terrace wall, lifted back into the gap.
+
+Start: Continuing the rain that began in the previous clip: heavy rain sweeps across the terraces; the farmer runs in from the left holding the rain cover over his head and back.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "Then the monsoon arrives." Wide shot: sheets of rain cross the slope as the farmer runs right along the terrace edge.
+
+[3–7s] VO "The same rain that feeds your fields" A section of the low stone terrace wall slumps and slides in the mud; he drops the rain cover and hauls rounded stones back into the gap one after another, ankle-deep in mud, rain streaming off him.
+
+[7–10s] VO "can wash them down the mountain in a single night." A rumble shakes the camera; a bright lightning flash fills the entire frame with white.
+
+End: A full-frame white lightning flash.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The arrangement thins to a lone sarangi line over a faint pulse. SFX: pounding rain, sliding mud, stones thudding, a thunder crack with the lightning. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. No oxen and no water pot in this clip.
+```
+
+### Clip 8 · Unveiling Insider Secrets · 3267 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: A narrow rain-soaked stone footpath climbing below the farmhouse at dusk turning to night: dark wet stone walls along the path, puddles reflecting faint light, softer falling rain, and the farmhouse above on the right with one small window glowing warm from a lamp inside. Mood: Deep blue dusk and rain-dark stone, with one warm amber window and doorway. Layout: The path climbs from lower left to the farmhouse door at upper right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: No carried props. The khukuri stays sheathed at the farmer's sash.
+
+Start: Emerging from the white flash: the farmer trudges up the path to the right, soaked, arms wrapped around himself.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "And then, you fall sick. A fever burns through the night." As the white fades to blue dusk, the farmer walks up the path to the right, shivering, arms hugging his chest.
+
+[3–7s] VO "No hospital. No pills." He stumbles and steadies himself with one hand against the stone wall; simple wavy icon-only fever lines rise from his head; far away, a small icon-only medical cross symbol appears on the dark horizon and fades out.
+
+[7–10s] VO "Nobody is coming from outside." He reaches the farmhouse door, which glows warm from inside; the camera pushes slowly toward the warm doorway light until it fills the frame.
+
+End: Warm amber doorway light fills the frame.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. A sparse, lone sarangi line. SFX: softer rain, a distant thunder rumble, unsteady footsteps, a wooden door latch. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.
+```
+
+### Clip 9 · Unveiling Insider Secrets · 3973 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The same farmhouse interior where the story began, now at night: low dark wooden beams, a steady fire in the earthen hearth at left-center throwing warm leaping shadows, the straw mat beside it, and the plain wooden door on the right wall. Mood: Warm firelight amber against deep night shadows. Layout: The farmer at left, the door and the healer's entrance at right.
+
+Exactly two people appear: the farmer and the healer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose. The healer: an older man in the same drawing style, slightly shorter and stooped: white filled round head, small dark oval eyes, thick white eyebrows, short white beard, calm mouth; tall upright peacock-feather crown on a cloth headband, long plain white robe, deep red sash, long dark-brown bead necklace; dark single-line limbs, small rounded hands, barefoot. Exactly two arms and two legs.
+
+Props: One round flat two-sided hand drum with a curved wooden stick handle, carried by the healer. One small bundle of green herb leaves, carried by the healer and then laid beside the farmer, where it stays. A small handful of grain in the healer's palm, scattered into the fire.
+
+Start: Inherited warm light: the farmer lies under a plain brown blanket on the straw mat beside the hearth, eyes half closed; the door on the right is closed.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "But the village has its healer." The door opens on the right and the healer steps in from the rainy night with the drum and herb bundle; firelight catches his feather crown.
+
+[3–7s] VO "With his drum, his prayers and his herbs," He sits by the fire and beats the drum in a steady rhythm; he scatters a handful of grain into the flames and bright sparks spiral upward; he lays the herb bundle beside the farmer.
+
+[7–10s] VO "he is doctor, priest and comfort, all at once." He gently holds the farmer's wrist with one hand, the drum resting in his lap; the rising sparks dissolve into soft pale morning light.
+
+End: Soft pale light fills the frame as the sparks dissolve.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The theme returns warmly; the madal pulse aligns with the healer's drumbeat. SFX: the door opening, rain outside, steady drumbeats, crackling fire, rising sparks. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. The healer does not speak, chant words or lip-sync.
+```
+
+### Clip 10 · Unveiling Insider Secrets · 3729 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The healer's small stone hut with a low thatched roof on a quiet hillside at dawn, a small fenced herb patch of leafy green plants in front, morning mist drifting through, and a ridge path leading away to the right. Mood: Soft dawn light, fresh herb greens and drifting white mist. Layout: The hut at left, the herb patch at center, the ridge path exiting right.
+
+Exactly two people appear: the farmer and the healer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose. The healer: an older man in the same drawing style, slightly shorter and stooped: white filled round head, small dark oval eyes, thick white eyebrows, short white beard, calm mouth; tall upright peacock-feather crown on a cloth headband, long plain white robe, deep red sash, long dark-brown bead necklace; dark single-line limbs, small rounded hands, barefoot. Exactly two arms and two legs.
+
+Props: One fresh green leaf picked by the healer and held up; one matching leaf picked by the farmer. The healer's drum hangs on a peg beside the hut door and is not carried.
+
+Start: Out of the pale light: the farmer, recovered but tired, walks slowly beside the healer along the herb patch, both moving right.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "You live. And you learn:" Wide shot in drifting mist: the farmer and the healer walk slowly side by side to the herb patch.
+
+[3–7s] VO "knowledge here lives in people, not in books." The healer picks a leaf and holds it up to the farmer; the farmer picks the same kind and nods; a simple icon-only book symbol appears and fades away, while a thin warm glowing line passes from the healer's head to the farmer's head.
+
+[7–10s] VO "Lose the old healer, and you lose it all." The farmer steps onto the ridge path to the right; the healer raises one hand in a wave and stays behind beside his hut.
+
+End: The farmer walks right onto the ridge path alone; the healer remains small beside the hut at left behind him.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. Gentle and warm. SFX: birdsong, wind in the grass, rustling leaves. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.
+```
+
+### Clip 11 · Unveiling Insider Secrets · 3060 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: A high, windy ridge trail above the clouds, overlooking folds of blue-green valleys and distant hills under a vast pale sky, with tall grass bending in the wind. Mood: Thin-air sky blue, snow-peak white and blue-green valleys. Layout: The ridge runs left to right across the lower third; the distant horizon sits at the right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: The khukuri in its sheath at the farmer's sash.
+
+Start: The farmer walks onto the ridge path from the left, alone, moving right.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "Then word comes up the trail." Wide shot: the farmer walks along the ridge, wind snapping at his rust-red sash; he stops abruptly.
+
+[3–7s] VO "The kingdom is at war on its far borders," Close-up: his hand rests on the sheathed khukuri at his sash; on the distant horizon simple icon-only crossed-swords and war-drum symbols pulse faintly.
+
+[7–10s] VO "and young men like you may be called." He turns back toward home, to the left and down the path, and a gust carries a swirl of leaves across the camera lens, filling the frame.
+
+End: A swirl of leaves fills the frame as a wipe.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. A low, tense sarangi line. SFX: strong wind, rustling grass. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. No soldiers, armies, battles or messengers; the war appears only as small distant icons.
+```
+
+### Clip 12 · Ultimate Truth Revelation · 3330 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: Time jump, months later: the same terraced hillside fields seen earlier in the story, now at harvest in warm autumn sun, the terraces full of tall golden ripe rice rippling in the breeze, a clear blue sky and bright snow-capped peaks behind. Mood: Rich harvest gold and clear sky blue. Layout: The farmer enters at left; the basket stands at the terrace edge on the right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: One small curved iron sickle with a wooden handle in the farmer's right hand. Bundles of golden rice sheaves that he ties. The tall cone-shaped woven bamboo basket with its flat forehead strap stands empty at the terrace edge on the right, then fills with sheaves.
+
+Start: As the leaves clear: golden rice fills the terraces and the farmer wades in from the left holding the sickle.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "Months later, the terraces turn gold." The leaf swirl clears to reveal rippling golden rice; the farmer wades into the field from the left.
+
+[3–7s] VO "You cut the rice yourself." He cuts handfuls of stalks with the sickle and ties them into sheaves; golden chaff floats in the warm light.
+
+[7–10s] VO "The reward is real, and you can hold it." He lifts one sheaf high above his head and smiles widely, then lowers it into the basket at the right, which is now full to the brim.
+
+End: The farmer stands beside the full basket placing its forehead strap on his brow, ready to walk right.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The theme swells warmly and fully. SFX: rustling stalks, the sickle's swish, a warm breeze. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. No other harvesters.
+```
+
+### Clip 13 · Ultimate Truth Revelation · 3557 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: A steep rocky mountain trail climbing toward a high snowy pass: enormous snow-capped peaks filling the background, thin clear air, a stone cairn strung with small plain colored prayer flags fluttering in the wind, and a rock overhang shelter near the top right. Mood: Snow-peak white and thin-air blue, turning deep orange at sunset; small bright prayer-flag colors. Layout: Very wide scale contrast: a tiny farmer on the switchback trail, giant peaks above; the rock shelter at upper right.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: The tall cone-shaped woven bamboo basket, now full of grain, carried on the farmer's back with the flat forehead strap across his brow; set down at the rock shelter at the end.
+
+Start: The farmer climbs in from the left with the full basket on his back, the forehead strap across his brow.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "Then you shoulder the extra grain" Very wide shot: the tiny farmer climbs the switchback trail beneath giant peaks; his breath makes small white clouds.
+
+[3–7s] VO "and walk for days toward the high passes," Lateral tracking shot to the right: the peaks loom larger; he passes the cairn and its fluttering prayer flags; beside the path a simple glowing icon-only arrow shows a grain symbol turning into a salt-crystal symbol.
+
+[7–10s] VO "to trade it for Tibetan salt." The sun sets behind the pass, turning the snow deep orange; he reaches the rock overhang and sets the basket down.
+
+End: The farmer kneels beside the basket under the rock overhang in deep orange sunset light.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. Steady, with a sense of distance. SFX: high wind, flags fluttering, crunching gravel, heavy breathing with no words. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. No other travelers, traders or pack animals; the prayer flags are plain colored cloth with no markings.
+```
+
+### Clip 14 · Ultimate Truth Revelation · 3245 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: A small trail camp under a rock overhang high in the mountains at night: a small crackling fire, the full basket resting against the rock, and an enormous clear starry sky with the Milky Way above dark snowy peaks. Mood: Warm firelight amber against deep night blue and a silver starfield. Layout: The farmer and fire at left-center under the overhang; the open starry sky fills the right and top.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: The full woven basket resting upright against the rock wall. A small fire of sticks. A small handful of grain roasting in the farmer's palm.
+
+Start: Night has fallen: the farmer sits by the small fire under the overhang, the basket against the rock behind him.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "And here is the hard truth:" Medium shot: the farmer roasts a little grain in his palm over the fire and eats it slowly.
+
+[3–7s] VO "nothing was given to you. Every comfort, even salt," Slow orbiting camera around him; simple glowing icon-only symbols of a cooking pot, a salt crystal and an oil lamp rise from the basket one by one and settle in a line along the curve of his back.
+
+[7–10s] VO "was carried on your own back." The symbols fade; he lies back and looks up; the Milky Way fills the frame and a single shooting star streaks across in a long arc.
+
+End: A shooting star traces a long arc across the starry sky.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. Quiet and reflective. SFX: fire crackle, faint wind, a soft whoosh for the shooting star. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.
+```
+
+### Clip 15 · Ultimate Truth Revelation · 3305 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: Time cut to the autumn festival season: a grassy hilltop at golden hour with a tall traditional swing made of four long bamboo poles tied together at the top, a rope seat hanging between them, and garlands of orange marigold flowers tied to the poles; the whole valley and terraces glow below. Mood: Golden-hour light, marigold orange and warm sky. Layout: The swing frame at center; its arc sweeps from left to right across the frame.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: The bamboo swing with its rope seat, fixed in place. Marigold petals that scatter.
+
+Start: The swing's rope seat arcs into frame along the same curved path as the shooting star, with the farmer standing on the seat gripping both ropes.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "And yet, when the festivals came," The swing sweeps into frame on a long arc matching the shooting star; the farmer stands on the seat, gripping both ropes.
+
+[3–7s] VO "people did not just rest. They flew." He pumps higher and higher, then stretches one arm out wide with a joyful open smile; marigold petals scatter; the camera rides the swing's arc.
+
+[7–10s] VO "Joy was not a luxury. It was survival." At the very top of the arc the frame fills with golden sky, and a single small warm lamp flame appears at the center and grows.
+
+End: Golden sky fills the frame with a single small lamp flame glowing at the center.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The theme at its fullest and brightest. SFX: swing ropes creaking, rushing wind, scattering petals. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. No other festival-goers and no crowds.
+```
+
+### Clip 16 · Ultimate Truth Revelation · 3972 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The front stone steps of the two-story stone-and-mud farmhouse with its golden thatched roof at dusk during the lamp festival, under a deep blue evening sky, with rows of small clay oil lamps along the steps and the window ledge. Mood: Warm firelight amber flames against deep blue dusk. Layout: The steps run across the lower frame; the healer enters from the left.
+
+Exactly two people appear: the farmer and the healer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose. The healer: an older man in the same drawing style, slightly shorter and stooped: white filled round head, small dark oval eyes, thick white eyebrows, short white beard, calm mouth; tall upright peacock-feather crown on a cloth headband, long plain white robe, deep red sash, long dark-brown bead necklace; dark single-line limbs, small rounded hands, barefoot. Exactly two arms and two legs.
+
+Props: Many small round clay oil lamps, mostly unlit at first, lit one by one by the farmer with a thin burning stick. One round clay bowl with a woven cover, brought by the healer and shared.
+
+Start: The lamp flame from the previous shot becomes one lit clay lamp on the steps; the farmer kneels beside it holding a thin burning stick.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "When you fell, the village caught you." The farmer moves along the steps lighting lamp after lamp with the thin burning stick; a row of warm flames multiplies.
+
+[3–7s] VO "The healer, your neighbors, the shared bowl of food." The healer arrives from the left carrying the covered bowl and sets it on the step; the farmer stands and greets him with both palms pressed together, and the healer returns the gesture.
+
+[7–10s] VO "People were the safety net." They sit side by side on the steps; the healer lifts the woven cover and warm steam rises; they share the food and the farmer laughs; small icon-only hearts drift up between them and fade.
+
+End: The farmer stands up from the step and starts walking right toward the terrace edge; the healer stays seated with the bowl; the lamps keep burning.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. Warm and full. SFX: small flames flickering, footsteps, the woven cover lifting, gentle laughter with no words. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. Neither character speaks or lip-syncs; no neighbors or other people are visible.
+```
+
+### Clip 17 · Ultimate Truth Revelation · 3212 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: A terrace-edge overlook just beyond the farmhouse at dusk deepening into night: the dark grassy hillside in the foreground, and below a wide dark valley dotted with tiny warm lamp lights from distant houses, under the first stars. Mood: Deep night blue with tiny warm valley lamps, and cool pale glowing icons that fade. Layout: Silhouette of the farmer at right-center; the valley spreads across the lower frame; the farmhouse window glows at left.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: None carried.
+
+Start: The farmer walks in from the left and stops at the terrace edge, looking out over the valley.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "They had almost nothing we have:" Silhouette composition: the farmer stands at the terrace edge at right-center as tiny valley lamps twinkle below.
+
+[3–7s] VO "no phone, no clock, no clinic." Cool glowing icon-only ghost symbols of a mobile phone, a clock and a medical cross float slowly up out of the valley, drift past him and away into the sky, fading.
+
+[7–10s] VO "But they had something we keep losing." He turns back to the left toward the farmhouse; the last fading icon dissolves into the warm hearth glow from the farmhouse window.
+
+End: The warm glow of the farmhouse window fills the center of the frame.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The theme begins to soften. SFX: night insects, a soft breeze. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols. The icons are plain silhouettes: the phone has a blank screen and the clock has no numbers.
+```
+
+### Clip 18 · Elevation & Discussion · 3417 chars
+
+```text
+10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.
+
+Setting: The same farmhouse interior where the story began, at night: low wooden beams, the earthen hearth at left-center with a calm steady fire, the woven straw mat, and the tiny square window in the back wall showing stars; as the camera pulls out, the thatched roof, the terraced hillside, the starlit valley and snow peaks under a clear night sky. Mood: Calm firelight amber inside, deep starry night blue and silver snow peaks outside. Layout: Mirror the opening: hearth at left-center, window at center; the final wide shot places the glowing window small at lower center under a wide sky.
+
+Only one person appears: the farmer. The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.
+
+Props: A few dry sticks beside the hearth; the farmer feeds one into the fire.
+
+Start: Through the warm window glow: the farmer sits cross-legged by the calm hearth, relaxed, mirroring the very first scene.
+
+Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.
+
+[0–3s] VO "No hospitals, but each other." Medium shot mirroring the opening scene: the farmer, calm and content, feeds a dry stick into the hearth fire; the flames brighten gently.
+
+[3–7s] VO "We have hospitals, and scroll alone." The camera pulls back slowly past him, through the tiny window and out over the thatched roof.
+
+[7–10s] VO "So what did we lose, and what did we gain?" Wide final shot of the starlit valley, the dark terraces and the glowing snow peaks, with the one small warm farmhouse window glowing; hold steadily on this final image.
+
+End: A still wide shot of the starlit valley with one glowing farmhouse window, held steady for the end card.
+
+Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.
+
+Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments. The theme resolves on its final soft sarangi phrase. SFX: gentle fire crackle fading, a night breeze. Voice-first mix.
+
+Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.
+```

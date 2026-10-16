@@ -156,12 +156,12 @@ clip(n=8, stage="Unveiling Insider Secrets", cast="F",
  neg="")
 
 clip(n=9, stage="Unveiling Insider Secrets", cast="FH",
- setting="The same farmhouse interior where the story began, now at night: low dark wooden beams, packed-earth floor, a steady fire in the earthen hearth at left-center throwing warm leaping shadows on the walls, the woven straw mat beside it, the tiny window showing rainy darkness, and the plain wooden door on the right wall.",
+ setting="The same farmhouse interior where the story began, now at night: low dark wooden beams, a steady fire in the earthen hearth at left-center throwing warm leaping shadows, the straw mat beside it, and the plain wooden door on the right wall.",
  palette="Warm firelight amber against deep night shadows.",
- comp="The farmer on the mat at left, the fire at left-center, the door and the healer's entrance at right.",
+ comp="The farmer at left, the door and the healer's entrance at right.",
  props="One round flat two-sided hand drum with a curved wooden stick handle, carried by the healer. One small bundle of green herb leaves, carried by the healer and then laid beside the farmer, where it stays. A small handful of grain in the healer's palm, scattered into the fire.",
  first="Inherited warm light: the farmer lies under a plain brown blanket on the straw mat beside the hearth, eyes half closed; the door on the right is closed.",
- b=["The door opens on the right and the healer steps in from the rainy night carrying the drum and the herb bundle; firelight catches his feather crown.",
+ b=["The door opens on the right and the healer steps in from the rainy night with the drum and herb bundle; firelight catches his feather crown.",
     "He sits by the fire and beats the drum in a steady rhythm; he scatters a handful of grain into the flames and bright sparks spiral upward; he lays the herb bundle beside the farmer.",
     "He gently holds the farmer's wrist with one hand, the drum resting in his lap; the rising sparks dissolve into soft pale morning light."],
  vo=["But the village has its healer.", "With his drum, his prayers and his herbs,", "he is doctor, priest and comfort, all at once."],
@@ -263,8 +263,8 @@ clip(n=15, stage="Ultimate Truth Revelation", cast="F",
 clip(n=16, stage="Ultimate Truth Revelation", cast="FH",
  setting="The front stone steps of the two-story stone-and-mud farmhouse with its golden thatched roof at dusk during the lamp festival, under a deep blue evening sky, with rows of small clay oil lamps along the steps and the window ledge.",
  palette="Warm firelight amber flames against deep blue dusk.",
- comp="The steps run across the lower frame; the healer enters from the left; the terrace edge opens on the right.",
- props="Many small round clay oil lamps, each holding one small flame; they start mostly unlit and are lit one by one by the farmer with a thin burning stick. One round clay bowl with a woven cover, carried in by the healer, set on the step, then uncovered and shared.",
+ comp="The steps run across the lower frame; the healer enters from the left.",
+ props="Many small round clay oil lamps, mostly unlit at first, lit one by one by the farmer with a thin burning stick. One round clay bowl with a woven cover, brought by the healer and shared.",
  first="The lamp flame from the previous shot becomes one lit clay lamp on the steps; the farmer kneels beside it holding a thin burning stick.",
  b=["The farmer moves along the steps lighting lamp after lamp with the thin burning stick; a row of warm flames multiplies.",
     "The healer arrives from the left carrying the covered bowl and sets it on the step; the farmer stands and greets him with both palms pressed together, and the healer returns the gesture.",
@@ -430,3 +430,47 @@ md.append("## Phase B checks")
 md.append(f"✅ Phase A approved · ✅ exactly 18 standalone prompts · ✅ every prompt repeats ratio, style, character, palette, voice, audio, transition and negative locks · ✅ narration in each prompt exactly matches Phase A ({words} words; checked by script) · ✅ narration audio-only and never displayed · ✅ no technical color notation · ✅ identical voice block in all 18 prompts · ✅ healer only in clips 9, 10 and 16 · ✅ three timed beats with ≥4 devices per clip · ✅ every cut named in the stitching guide · ✅ overlays kept separate")
 open(OUT, "w").write("\n\n".join(md) + "\n")
 print("wrote", OUT)
+
+# ---------- compact prompts (<= 4000 chars, for API tools with a prompt limit) ----------
+FARMER_C = ("The farmer: a young adult man drawn as a minimalist 2D cartoon: white filled circular head, two small dark oval eyes, simple eyebrow strokes, short curved mouth, small plain dark-brown cloth cap; off-white crossover cotton tunic to mid-thigh with elbow-length sleeves, loose off-white trousers narrowing at the ankles, plain rust-red waist sash; forearms, hands and lower legs are dark single-line strokes of constant medium weight, small dark rounded hands, barefoot. Same proportions, outfit and line weight in every shot; exactly two arms and two legs, and a moving limb replaces its previous pose.")
+HEALER_C = 'The healer: an older man in the same drawing style, slightly shorter and stooped: white filled round head, small dark oval eyes, thick white eyebrows, short white beard, calm mouth; tall upright peacock-feather crown on a cloth headband, long plain white robe, deep red sash, long dark-brown bead necklace; dark single-line limbs, small rounded hands, barefoot. Exactly two arms and two legs.'
+OXEN_C = "Two identical simple cartoon oxen: warm brown bodies, short curved light horns, dark dot eyes, stick-like legs, yoked by one wooden beam."
+VOICE_C = ("Narrator: one off-screen elderly man of about seventy, clear English with a light, gentle Nepali accent; warm, deep, slightly weathered low voice with rich chest resonance and a soft touch of gravel, no breathiness; slow, unhurried fireside storytelling with gentle pauses and a steady pace; close, dry studio sound. Keep this exact voice throughout; no character dialogue.")
+STYLE_C = '10-second 16:9 clip with synchronized audio. Cozy Storytelling style: full-color 2D cartoon, clean contours, soft natural light, cinematic framing; a Nepali hill village in the early nineteenth century. Identical character design and constant line weight. Not sketchbook, photoreal or 3D.'
+MUSIC1_C = "Music: gentle Nepali folk theme on sarangi with soft bansuri flute and a light madal hand-drum pulse, slow warm tempo."
+MUSICN_C = 'Music: continue the identical Nepali folk theme from clip 1 (sarangi, soft bansuri, light madal pulse), same tempo, key and instruments.'
+DIAL_C = 'Audio-only voiceover (no speech bubbles, captions or subtitles): the narrator speaks exactly the quoted words once, in order.'
+NEG_C = 'Avoid: photorealism, 3D CGI, realistic eyes or hair, extra or duplicated limbs, changing proportions or line weight, other people, any visible text, letters, numbers, logos, speech bubbles, lip-sync, liquid morphing, modern objects except icon-only symbols.'
+CAST_C = {"F": "Only one person appears: the farmer.", "FO": "Only one person appears, the farmer, plus exactly two oxen.", "FH": "Exactly two people appear: the farmer and the healer."}
+
+def build_c(c):
+    p = [STYLE_C,
+         "Setting: " + c["setting"] + " Mood: " + c["palette"] + " Layout: " + c["comp"],
+         CAST_C[c["cast"]] + " " + FARMER_C + ((" " + HEALER_C) if "H" in c["cast"] else "") + ((" " + OXEN_C) if "O" in c["cast"] else ""),
+         "Props: " + c["props"],
+         "Start: " + c["first"],
+         DIAL_C,
+         "[0–3s] VO \"" + c["vo"][0] + "\" " + c["b"][0],
+         "[3–7s] VO \"" + c["vo"][1] + "\" " + c["b"][1],
+         "[7–10s] VO \"" + c["vo"][2] + "\" " + c["b"][2],
+         "End: " + c["final"],
+         VOICE_C,
+         (MUSIC1_C if c["n"] == 1 else MUSICN_C) + " " + c["music"] + " SFX: " + c["sfx"] + " Voice-first mix.",
+         NEG_C + ((" " + c["neg"]) if c["neg"] else "")]
+    return "\n\n".join(p)
+
+compact = {c["n"]: build_c(c) for c in C}
+over = {n: len(t) for n, t in compact.items() if len(t) > 4000}
+print("compact lengths:", [len(compact[n]) for n in sorted(compact)])
+if over: print("OVER 4000:", over); sys.exit(2)
+for n, t in compact.items():
+    assert t.count(VOICE_C) == 1 and t.count(FARMER_C) == 1
+    assert (HEALER_C in t) == (n in (9, 10, 16))
+    assert " ".join(re.findall(r'VO "(.*?)"', t)) == APPROVED[n], n
+    assert not re.search(r"\d{4}", t)
+cm = ["# Compact prompts (≤ 4,000 characters)", "Same content as `phase-b-prompts.md`, condensed for tools with a 4,000-character prompt limit, such as the vidIQ Omni Flash tool. The character, voice and music blocks are identical across all 18 prompts."]
+for c in C:
+    cm.append(f"### Clip {c['n']} · {c['stage']} · {len(compact[c['n']])} chars")
+    cm.append("```text\n" + compact[c["n"]] + "\n```")
+open(OUT.replace("phase-b-prompts.md", "phase-b-compact.md"), "w").write("\n\n".join(cm) + "\n")
+print("wrote compact")
