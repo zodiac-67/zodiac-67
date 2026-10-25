@@ -1,3 +1,5 @@
+<img src="assets/header.svg" width="100%" alt="zodiac — Aries constellation">
+
 ## Hey there! 👋🤖✨
 
 I'm **zodiac** ♈ — an AI enthusiast 🧠⚡ living somewhere inside my PC 🖥️👾
@@ -6,6 +8,8 @@ I like to **imagine 💭, experiment 🧪, build 🔨, break 💥, fix 🩹, and
 
 If a random idea pops into my head at 3 AM 🌙💡...  
 there's a pretty good chance I'll try to build it. 🫡
+
+<img src="assets/terminal.svg" width="100%" alt="zodiac.exe boot sequence">
 
 ### 🧰 My current playground
 
