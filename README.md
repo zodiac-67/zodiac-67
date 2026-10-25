@@ -1,36 +1,29 @@
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="zodiac.exe boot sequence">
+  <img src="assets/title.svg" width="100%" alt="ZODIAC: the game — press start">
 </p>
 
 <p align="center">
-  <a href="https://github.com/zodiac-67?tab=repositories"><img src="assets/cmd-repos.svg" width="32%" alt="$ cd ~/repos — my projects"></a>
-  <a href="#lore"><img src="assets/cmd-lore.svg" width="32%" alt="$ cat lore.md — about me"></a>
-  <a href="#loadout"><img src="assets/cmd-loadout.svg" width="32%" alt="$ ls loadout/ — my tools"></a>
+  <a href="#quests"><img src="assets/btn-new.svg" width="32%" alt="NEW GAME → quests"></a>
+  <a href="#lore"><img src="assets/btn-lore.svg" width="32%" alt="LOAD LORE → about me"></a>
+  <a href="#loadout"><img src="assets/btn-options.svg" width="32%" alt="OPTIONS → my loadout"></a>
 </p>
 
-## Lore
+<a name="lore"></a>
+<p align="center">
+  <img src="assets/lore.svg" width="100%" alt="Lore: I'm zodiac, an AI enthusiast living inside my PC who builds whatever pops up at 3 AM">
+  <img src="assets/terminal.svg" width="100%" alt="zodiac.exe boot sequence">
+</p>
 
-I'm **zodiac** ♈ — an AI enthusiast 🧠⚡ living somewhere inside my PC 🖥️👾
+<a name="loadout"></a>
+<p align="center">
+  <img src="assets/loadout.svg" width="100%" alt="Loadout: Claude Code, Codex, OpenCode, caffeine, bugs">
+</p>
 
-I like to **imagine 💭, experiment 🧪, build 🔨, break 💥, fix 🩹, and ship 🚀** whatever catches my attention.
+<a name="quests"></a>
+<p align="center">
+  <a href="https://github.com/zodiac-67?tab=repositories"><img src="assets/quests.svg" width="100%" alt="Quest log: my repositories"></a>
+</p>
 
-If a random idea pops into my head at 3 AM 🌙💡...  
-there's a pretty good chance I'll try to build it. 🫡
-
-## Loadout
-
-🤖 **Claude Code**  
-🧠 **Codex**  
-⚡ **OpenCode**  
-☕ **Caffeine** *(optional dependency)*  
-🐛 **Bugs** *(unfortunately included)*
-
-## Next level
-
-I'm pretty new around here 🌱👀  
-so consider this the **beginning of the lore** 📖✨
-
-More projects 🛠️, experiments 🧪, weird ideas 👽,  
-and questionable late-night decisions 🌙💀 are coming soon™️.
-
-**Stay tuned. 👀✨🚀**
+<p align="center">
+  <img src="assets/next.svg" width="100%" alt="Next level: more projects, experiments and weird ideas coming soon. Stay tuned.">
+</p>
